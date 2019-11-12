@@ -1,0 +1,26 @@
+title: Romain Petit
+url: "https://rpetit.github.io"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Jekyll template by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: ""
+ - name: "Projects"
+   link: "projects"
+ - name: "Resume"
+   link: "resume"
+ - name: "Contact"
+   link: "mailto:romain.petit@inria.fr"
