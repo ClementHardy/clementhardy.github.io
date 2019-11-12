@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## Numerical solvers for the Beurling LASSO
+## Master thesis
+My master thesis aimed at building confidence bands for stochastic processes from a sample of trajectories. Several methods were considered. Rather than attempting to construct functions bounding the process with a high probability  via an expansion, we proposed to solve a problem of area minimization with chance constraints. If its resolution was intractable in practice , it turned out that a sample average approximation provided good results and had theoretical guarantees.
 
-During my master thesis, I implemented (in Julia) two solvers for the Beurling LASSO. The first one relies on semi-definite relaxations (Lasserre hierarchies), while the second one uses the sliding Frank-Wolfe algorithm. See  [this repository](https://github.com/rpetit/BeurlingLasso.jl).
