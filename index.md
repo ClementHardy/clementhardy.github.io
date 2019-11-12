@@ -4,9 +4,9 @@ layout: default
 
 ## About
 
-I am a PhD student at University Paris Dauphine and INRIA Paris, supervised by
-Vincent Duval and Yohann De Castro.
+I am a first-year PhD student. My thesis is under a CIFRE agreement with CERMICS (Ecole des Ponts Paristech), CREST (ENSAE Paristech) and EDF R&D. My supervisors are Cristina Butucea (CREST), Jean-François Delmas (CERMICS) and Anne Dutfoy (EDF).
 
 ## Research interests
-
-Inverse problems (sparse spikes super-resolution, off-the-grid methods).
+Functional data
+Extreme values of processes
+Confidence bands for functional data
