@@ -1,4 +1,4 @@
-title: Romain Petit
+title: Clément Hardy
 url: "https://rpetit.github.io"
 baseurl: ""
 
@@ -23,4 +23,4 @@ nav:
  - name: "Resume"
    link: "resume"
  - name: "Contact"
-   link: "mailto:romain.petit@inria.fr"
+   link: "mailto:clement.hardy@enpc.fr"
