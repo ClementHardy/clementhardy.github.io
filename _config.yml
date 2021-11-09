@@ -24,3 +24,5 @@ nav:
    link: "resume"
  - name: "Contact"
    link: "mailto:clement.hardy@enpc.fr"
+
+theme: jekyll-theme-minimal
